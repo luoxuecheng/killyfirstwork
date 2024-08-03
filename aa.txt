@@ -1,1 +1,44 @@
 aaa
+slmgr.vbs /upk 
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX 
+slmgr /skms kms.lotro.cc
+slmgr /ato 
+slmgr.vbs /upk 
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX 
+slmgr /skms kms.lotro.cc
+slmgr /ato 
+slmgr.vbs /upk 
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX 
+slmgr /skms kms.lotro.cc
+slmgr /ato 
+slmgr.vbs /upk 
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX 
+slmgr /skms kms.lotro.cc
+slmgr /ato 
+slmgr.vbs /upk 
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX 
+slmgr /skms kms.lotro.cc
+slmgr /ato 
+slmgr.vbs /upk 
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX 
+slmgr /skms kms.lotro.cc
+slmgr /ato 
+slmgr.vbs /upk 
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX 
+slmgr /skms kms.lotro.cc
+slmgr /ato 
+slmgr.vbs /upk 
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX 
+slmgr /skms kms.lotro.cc
+slmgr /ato 
+slmgr.vbs /upk 
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX 
+slmgr /skms kms.lotro.cc
+slmgr /ato 
+slmgr.vbs /upk 
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX 
+slmgr /skms kms.lotro.cc
+slmgr /ato slmgr.vbs /upk 
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX 
+slmgr /skms kms.lotro.cc
+slmgr /ato v
